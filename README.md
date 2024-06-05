@@ -33,6 +33,8 @@ The Revelop eS 3D Printer Control Board is an innovative and compact solution de
 - **USB C**: Modern and convenient USB C port for easy connectivity.
 - **Microfit Connectors for Power, CAN, and Heater**: Reliable and secure connections for power and data.
 - **Full-Size JST XH Connectors for Most Ports**: Standardized connectors for easy integration.
+- **Microfit 3.0 Connectors for Power, CAN and Heater**: Easy to use, great mechanical strength and widely available connector.
+- **Includes all pre-made pigtail connectors**: So that you dont have to fiddle around with crimpers. 
 
 ## Why Choose Revelop eS?
 
