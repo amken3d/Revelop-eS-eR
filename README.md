@@ -40,6 +40,10 @@ The Revelop eS 3D Printer Control Board is an innovative and compact solution de
 
 The Revelop eS 3D Printer Control Board is designed for the creative spirit of hobbyists, makers, and 3D printer enthusiasts. With its robust features, compact design, and easy-to-use interface, Revelop eS enhances your 3D printing projects, making them more enjoyable and efficient. It’s the perfect choice for those looking to take their 3D printing to the next level.
 
-## Order Now
+## Order Now - (taking orders for Pre-Launch release)
 
-Transform your 3D printing experience with the Revelop eS 3D Printer Control Board. Order now and start creating with confidence!
+Transform your 3D printing experience with the Revelop 3D Printer Control Board. Order now and start creating with confidence!
+Send me a note to put you on the list of early adopters. 
+https://amken3d.com/contact/
+
+# Visit us - www.amken3d.com
